@@ -30,4 +30,10 @@ src
        |___ img
        |___ docs
 
+Publicando um projeto electron
 
+-Gerar uma pacote executável (windows / mac / linux)
+
+OBS: Por padrão o electron gera o arquivo executável na versão do sistema que foi criado (windows -> windows.exe)
+
+O arquivo executavel pode ser instalado em qualquer versão do windows sem qualqueer pré requisito ( não é necessario ter node ou electron ou vscode instalado)
